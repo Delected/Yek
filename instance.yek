@@ -1,9 +1,15 @@
+import yekc from yek
+
 yekc.read(instance.yek)into(instance.yek)
-yekc.token[><][()],[**][""]
-yekc.word[PRINT>*%*<][print>*%*<]
-yekc.define[PRINT>*%*<][COM]
-yekc.startup()
+
+yekc.token[[]][()],[{}][""]
+yekc.word[PRINT[{%}]][print[{%}]]
+yekc.define[PRINT[{%}]][COM]
+
+yekc.startup()[]
 yekc.finish
+
 bocian.yekc
 roll.yekc
-PRINT>*Loaded*<
+
+PRINT[{Loaded}]
