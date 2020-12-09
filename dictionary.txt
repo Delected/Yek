@@ -1,0 +1,9 @@
+yekc.read()into()
+bocian.yekc
+roll.yekc
+yekc.token[][]
+yekc.word[][]
+yekc.define[][]
+yekc.finish
+yekc.placeholder
+yekc.removeplaceholders
