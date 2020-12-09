@@ -7,3 +7,9 @@ yekc.define[][]
 yekc.finish
 yekc.placeholder
 yekc.removeplaceholders
+yekc.import(filename.yek)
+yekc.testfile(filename.yek),as.response[]
+yekc.testfile(filename.yek),as.redo
+yekc.listerrors
+yekc.consolelog""
+yekc.pause[]
