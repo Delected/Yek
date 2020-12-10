@@ -7,7 +7,7 @@ yekc.word[PRINT[{%}]][print[{%}]]
 yekc.define[PRINT[{%}]][COM]
 
 yekc.startup()[]
-yekc.testfile(instance.yek),as.response[yekc.consolelog"error in instance.yek",yekc.listerrors],as.once.redo
+yekc.testfile(instance.yek),as.response[yekc.consolelog"error in instance.yek",yekc.listerrors],as.once.redo.response[yekc.consolelog"restarting console due to error",yekc.end]
 yekc.finish
 
 bocian.yekc
