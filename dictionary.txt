@@ -13,3 +13,11 @@ yekc.testfile(filename.yek),as.redo
 yekc.listerrors
 yekc.consolelog""
 yekc.pause[]
+file.edit(filename.yek)
+file.edit(filename.yek).replace[][]
+file.edit(filename.yek).replaceall[]
+file.edit(filename.yek).trim
+file.edit(filename.yek).linebreak
+file.edit(filename.yek).tab
+yekc.startup(filename.yek)[]
+yekc.load
