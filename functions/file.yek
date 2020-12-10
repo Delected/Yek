@@ -1,0 +1,3 @@
+import yekc from yek
+var(edit)[]
+yekc.definefunc(edit)[var(file)[open("message(1)", "w")],var(file).write("var(edit)")]
