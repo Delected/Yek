@@ -1,0 +1,13 @@
+import yekc from yek
+var(edit)[]
+var(file)[]
+yekc.definefunc(replace)[var(edit)[replace]]
+yekc.definefunc(replaceall)[var(edit)[replaceall]]
+yekc.definefunc(trim)[var(edit)[trim]]
+yekc.definefunc(linebreak)[var(edit)[linebreak]]
+yekc.definefunc(tab)[var(edit)[tab]]
+while[var(edit)==replace],var(file)[message[0],replace[message(1)][message(2)]
+while[var(edit)==replaceall],var(file)[message[0],set[message(1)]
+while[var(edit)==trim],var(file)[message[0],trim(var(file))
+while[var(edit)==linebreak],var(file)[message[0],replace[\n][;]
+while[var(edit)==tab],var(file)[message[0],replace[ ][|]
