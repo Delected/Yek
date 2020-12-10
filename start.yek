@@ -1,0 +1,7 @@
+import yekc from yek
+
+yekc.startup(yekc.yek)[yekc.consolelog"yekc functions loaded."]
+yekc.startup(file.yek)[yekc.consolelog"file functions loaded."]
+yekc.startup(dot.yek)[yekc.consolelog"dot functions loaded."]
+yekc.consolelog"Complete."
+yekc.consolelog"YEK version 1.2"
