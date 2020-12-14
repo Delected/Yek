@@ -5,6 +5,7 @@ Things you can do with YEK:
 - Easily create a custom language!
 - Run python!
 - Add your own functions to yekc!
+- Get all the women (or men)! Everyone will find you attractive!
 
 ## Discord server
 https://discord.gg/nrQW8w5shY
