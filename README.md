@@ -6,6 +6,7 @@ Things you can do with YEK:
 - Run python!
 - Add your own functions to yekc!
 - Get all the women (or men)! Everyone will find you attractive!
+- Get confused! xD
 
 ## Discord server
 https://discord.gg/nrQW8w5shY
